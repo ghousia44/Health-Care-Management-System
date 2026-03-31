@@ -131,6 +131,7 @@ Nalanda College, Bihar Sharif
 
 ## 📷 Screenshots
 
-(Add your login page and dashboard screenshots here)
+**login page
+![Login](login.png)
 
 ---
