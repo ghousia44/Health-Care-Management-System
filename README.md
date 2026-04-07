@@ -4,7 +4,7 @@ A Java-based Healthcare Management System designed to automate hospital operatio
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 
 * Role-based login system (Admin/User)
 * Designed based on DFD and ER Diagram
@@ -13,20 +13,20 @@ A Java-based Healthcare Management System designed to automate hospital operatio
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🔐 Secure Login System with Role-Based Access
-* 👨‍⚕️ Doctor Management
-* 🧑‍🤝‍🧑 Patient Record Management
-* 💊 Medicine & Pharmacy Management
-* 🧪 Lab Report Handling
-* 🧾 Billing and Payment System
-* 📊 Hospital Reports Management
-* 🔑 Forgot Password Functionality
+*  Secure Login System with Role-Based Access
+*  Doctor Management
+*  Patient Record Management
+*  Medicine & Pharmacy Management
+*  Lab Report Handling
+*  Billing and Payment System
+*  Hospital Reports Management
+*  Forgot Password Functionality
 
 ---
 
-## 🧩 Modules
+## Modules
 
 ### 1. Administrator Module
 
@@ -65,7 +65,7 @@ A Java-based Healthcare Management System designed to automate hospital operatio
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Frontend:** Java (Swing, AWT)
 * **Backend:** MySQL / Oracle
@@ -74,7 +74,7 @@ A Java-based Healthcare Management System designed to automate hospital operatio
 
 ---
 
-## 📊 System Workflow
+##  System Workflow
 
 1. User logs into the system
 2. System checks credentials
@@ -84,7 +84,7 @@ A Java-based Healthcare Management System designed to automate hospital operatio
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Maintain patient records digitally
 * Reduce manual paperwork
@@ -94,7 +94,7 @@ A Java-based Healthcare Management System designed to automate hospital operatio
 
 ---
 
-## 📌 Scope
+##  Scope
 
 * Reduces workload and saves time
 * Improves data accuracy and management
@@ -103,7 +103,7 @@ A Java-based Healthcare Management System designed to automate hospital operatio
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Basic security implementation
 * Desktop-based system
@@ -112,7 +112,7 @@ A Java-based Healthcare Management System designed to automate hospital operatio
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Web-based system
 * Email/SMS notifications
@@ -121,7 +121,7 @@ A Java-based Healthcare Management System designed to automate hospital operatio
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ghousia Hasan**
 MCA Student
@@ -129,9 +129,10 @@ Nalanda College, Bihar Sharif
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 **login page
 ![Login](login..png)
+**Dashboard Page
 ![Dashboard](dashboard.png)
 ---
